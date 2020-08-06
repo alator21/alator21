@@ -1,4 +1,4 @@
-### Hi there 👋 and welcome to my profile ;)
+### Hi there 👋 and welcome to my profile 😄
 
 <!--
 **alator21/alator21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
