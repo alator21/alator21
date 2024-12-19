@@ -5,4 +5,5 @@ My name is Rafael Triantafillidis and I am a software engineer. You can learn mo
 
 ## Check what I listened most to, the past week.
 
-[Weekly top tracks](./weekly-top-tracks.md)
+![Raf's top tracks during last week](weekly-top-tracks.png?raw=true "Raf's top tracks")
+
